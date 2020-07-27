@@ -1,0 +1,10 @@
+C:\Users\Dani_aim\source\repos\Simulate_load_Progress\Simulate_load_Progress\bin\Debug\Simulate_load_Progress.exe.config
+C:\Users\Dani_aim\source\repos\Simulate_load_Progress\Simulate_load_Progress\bin\Debug\Simulate_load_Progress.exe
+C:\Users\Dani_aim\source\repos\Simulate_load_Progress\Simulate_load_Progress\bin\Debug\Simulate_load_Progress.pdb
+C:\Users\Dani_aim\source\repos\Simulate_load_Progress\Simulate_load_Progress\obj\Debug\Simulate_load_Progress.csprojAssemblyReference.cache
+C:\Users\Dani_aim\source\repos\Simulate_load_Progress\Simulate_load_Progress\obj\Debug\Simulate_load_Progress.Form1.resources
+C:\Users\Dani_aim\source\repos\Simulate_load_Progress\Simulate_load_Progress\obj\Debug\Simulate_load_Progress.Properties.Resources.resources
+C:\Users\Dani_aim\source\repos\Simulate_load_Progress\Simulate_load_Progress\obj\Debug\Simulate_load_Progress.csproj.GenerateResource.cache
+C:\Users\Dani_aim\source\repos\Simulate_load_Progress\Simulate_load_Progress\obj\Debug\Simulate_load_Progress.csproj.CoreCompileInputs.cache
+C:\Users\Dani_aim\source\repos\Simulate_load_Progress\Simulate_load_Progress\obj\Debug\Simulate_load_Progress.exe
+C:\Users\Dani_aim\source\repos\Simulate_load_Progress\Simulate_load_Progress\obj\Debug\Simulate_load_Progress.pdb
